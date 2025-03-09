@@ -685,7 +685,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="relative flex items-center justify-center bg-[url('/imgs/mail.png')] bg-[size:70%] bg-no-repeat bg-cover bg-center min-h-[200px]">
+            <div className="relative flex items-center justify-center bg-[url('/imgs/mail.png')] bg-[size:60%] bg-no-repeat bg-cover bg-center min-h-[200px]">
           
             </div>
           </div>
